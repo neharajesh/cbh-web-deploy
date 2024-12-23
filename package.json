@@ -25,6 +25,7 @@
     "react-router-dom": "^7.0.2",
     "tailwind-merge": "^2.5.5",
     "tailwindcss-animate": "^1.0.7",
+    "vite-plugin-commonjs": "^0.10.4",
     "zod": "^3.24.1"
   },
   "devDependencies": {
